@@ -7,7 +7,7 @@
 
 This project demonstrates a fully serverless data pipeline using AWS Glue, Amazon S3, and AWS Glue Data Catalog. The solution automates data discovery, schema inference, and metadata management using AWS Glue Crawlers.
 
-###Architecture
+### Architecture
 
 
 
