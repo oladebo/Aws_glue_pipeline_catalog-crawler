@@ -7,6 +7,7 @@ This project demonstrates a fully serverless data pipeline using AWS Glue, Amazo
 
 ### Architecture
 
+![image alt](https://github.com/oladebo/Aws_glue_pipeline_catalog-crawler/blob/0c23967117d6a1feb82479f9d9c5dca24868ca98/Screen%20Shot%202026-05-29%20at%2014.11.48.png)
 
 
 Data is stored in Amazon S3, where AWS Glue Crawlers scan the datasets, infer schema, and automatically create tables in the Glue Data Catalog. The cataloged data can then be queried using analytics services such as Amazon Athena.
@@ -48,4 +49,5 @@ https://drive.google.com/file/d/1tOHrOhXXmJK8IEsLPLFEHZb0IOhdKu1a/view?usp=drive
 Thanks
 
 By Oladebo Ayanniyi
-Clod Data Engineer
+
+Cloud Data Engineer
