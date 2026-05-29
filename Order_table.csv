@@ -1,0 +1,11 @@
+name,order_id,amount,country,product
+John,1001,250,Nigeria,Laptop
+Mary,1002,400,Ghana,Phone
+David,1003,150,United state,Tablet
+Sarah,1004,600,United Kindom,Monitor
+Michael,1005,320,Germany,Keyboard
+Linda,1006,500,India,Mouse
+James,1007,700,Canada,Printer
+Grace,1008,280,Australia,Speaker
+Daniel,1009,450,United state,Camera
+Sophia,1010,390,Nigeria,Router
