@@ -1,5 +1,3 @@
-# Aws_glue_pipeline_catalog-crawler
-
 
 ## AWS Glue Serverless Data Pipeline (Crawler & Data Catalog)
 
@@ -46,5 +44,8 @@ This project demonstrates how AWS serverless services can be combined to build a
 
 
 https://drive.google.com/file/d/1tOHrOhXXmJK8IEsLPLFEHZb0IOhdKu1a/view?usp=drive_link
-<img width="788" height="38" alt="image" src="https://github.com/user-attachments/assets/5f0fa207-e7b4-4c12-a41c-b6f0b68deac4" />
 
+Thanks
+
+By Oladebo Ayanniyi
+Clod Data Engineer
